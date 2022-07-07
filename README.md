@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Psycho649/Psycho649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Wsp ppl!
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning python, web3
@@ -14,4 +9,3 @@ Here are some ideas to get you started:
   - Telegram: Blockydablocks
   - Steam: Yasogan_6
 - 😄 Pronouns: He/Him/His
--->
